@@ -1,0 +1,483 @@
+{
+ "work": "頼基集",
+ "work_id": "zkt-yorimoto",
+ "repo": "kumoi-no-fumigura/yorimoto-shu",
+ "yomi": "よりもとしゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安中期",
+ "author": "源頼基",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-yorimoto-0001",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "cp惜むべき庭の櫻は盛りにて心ぞ花にまづうつりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0002",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一天原宿かす人のなければや秋くる雁の音をば鳴く覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0003",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一七人人心心內內比比に富士の山とやした焦れける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0004",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "山山端に斯こそ秋も時雨しか何を今朝より冬と云覧",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0005",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "逢事の今は片帆になる卅の風待つ程は寄る方もなし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0006",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "天暦の御時屏風に春日野に若菜つみたる處",
+   "author": "",
+   "text": "若干の年摘みくれど春日野に生る若菜は老せざり鬼",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0007",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "三月",
+   "author": "",
+   "text": "加花だにも散殘らなむ過ぬ共情むに止る春かともみむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0008",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "秋の夜召ありて春宮に參りて雁の鳴くを",
+   "author": "",
+   "text": "如鶴雁はくるか歸るか覺東な春の宮にて秋の夜なれば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0009",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "寛平の御時の御屏風に",
+   "author": "",
+   "text": "人白露の臭手の稻も刈てけり秋はて方に成やしぬらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0010",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓月月流流ゝゝゝしれば上した秋の紅葉をぞみる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0011",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓水底に形のみ見ゆる紅葉は秋の形見に波やおるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0012",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一霧のたつ紅葉の錦亂るれば行へも知ぬ物にもある哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0013",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "雨のすれば袖をかづきたる處",
+   "author": "",
+   "text": "三笠取の山を賴しかひもなく時雨に袖を濡してぞ行く",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0014",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "宇多の院にて梅の花をよみ侍りける",
+   "author": "",
+   "text": "ヨちも迄はるつゝだにみむ春雨に我を滿すな梅の花笠",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0015",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "同じ院の中宮に四十の賀奉り給ふ竹の杖の歌",
+   "author": "",
+   "text": "一一にに代代なればつく共盡じ君が齡は",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0016",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "ある所の屏風に志賀の山越に瀧おちたる所",
+   "author": "",
+   "text": "一水上に掬ぶ人なみ白玉は山のをよりぞぬきて落ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0017",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "ある人の最にかく歌",
+   "author": "",
+   "text": "な涼しさはやがて心に任せたる扇を煽く風ならずして",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0018",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "朱雀の院の御屏風、子日に松ひける處に爲なく",
+   "author": "",
+   "text": "女子日する野べに小松を引連れて歸る山べに爲ぞ鳴く",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0019",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "字多の院の御前に松の末に藤の花さきかゝりたるを、三月つごもり",
+   "author": "",
+   "text": "〓藤の花まつのみならず暮ぬべき春の末にも咲懸り鳬",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0020",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "先代の皇后の九條の右大臣殿の五十賀奉り給ふ御屏風に、年暮れて竹のある家",
+   "author": "",
+   "text": "長きよを思しやれば吳竹の暮行く冬も惜からなくに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0021",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "ある處の屏風の給に、志賀の山越の處に",
+   "author": "",
+   "text": "ななには負へどなるゝもみえずす瓜生坂春の霞のいたいな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0022",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "人の扇にかゝむとて侍るに",
+   "author": "",
+   "text": "內內ととみみぬののななきに凉しき風を爭で込けむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0023",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "亭子院の御使に越へ行く人に帶をとらするにたゝなるよりはとて",
+   "author": "",
+   "text": "ふゆふ帶のとくはあふ共別なば越を巡らむ程の久しさ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0024",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "同じ院の御前にまゆみの紅葉に簑蟲のかゝりたるを歌仕うまつれと仰せあるに",
+   "author": "",
+   "text": "紅葉ばの枝に懸れる簑蟲は時雨ふる共滿じとや思ふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0025",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "女のもとに始めて文やるに",
+   "author": "",
+   "text": "初霧の空に立つる心かな思はれむともしらぬ我身を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0026",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "大井川の行幸に種々の題をよませ給ひしに秋の水に浮ぶといふ題を",
+   "author": "",
+   "text": "色々にうける心も秋の水紅葉ながすと人やみるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0027",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "秋山を",
+   "author": "",
+   "text": "白露はわきておかじな秋の山などか紅葉も薄くこかる覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0028",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "紅葉散る",
+   "author": "",
+   "text": "紅葉の流渦まく淵をこそくれ行く秋の泊りとはみれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0029",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "旅の雁",
+   "author": "",
+   "text": "すす里里里の定めなければ旅の雁空にぞ浮て鳴渡るかな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0030",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "菊の花",
+   "author": "",
+   "text": "行幸をばけふとや兼て菊の花昨日の色のあせて殘れる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0031",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "鶴澤に立てり",
+   "author": "",
+   "text": "∞河近み住ひすればや其鶴の流れて千年ありと云るヽ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0032",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "鷗別れたり",
+   "author": "",
+   "text": "一白浪や身によせ懸るとも思はで立も騒ず馴るゝ爲哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0033",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "江の松老いたり",
+   "author": "",
+   "text": "ニええ深深年年年るなは水底の影にさへ社色は見えけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0034",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "天曆の御時の屏風に七月七日人いでゐイ空を詠",
+   "author": "",
+   "text": "〓〓事事は別れて後も七夕の思ひはるべき隙もなきかな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-yorimoto-0035",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "五月五日駒くらべする處",
+   "author": "",
+   "text": "若胸とけふに逢くる菖蒲草生ひ後るゝや祭るなる覽",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
