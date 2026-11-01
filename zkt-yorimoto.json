@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 35,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-yorimoto-0001",
@@ -534,7 +537,7 @@
   "blocks": 35,
   "chars": 812,
   "poems": 35,
-  "yaku": 0,
+  "yaku": 35,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T19:40:42+09:00"
